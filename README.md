@@ -1,4 +1,5 @@
-Hi! 我是CPALyth, 现居北京海淀区, 从事python和golang后端开发~🔭
+Hi! 我是CPALyth, 是一个代码洁癖晚期患者, 现居北京海淀区, 从事python和golang后端开发~
+
 
 <!--
 **CPALyth/CPALyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
