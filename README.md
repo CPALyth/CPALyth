@@ -29,4 +29,10 @@ Here are some ideas to get you started:
 - 运维：掌握Docker、Nginx项目部署操作；掌握supervisor监控重启进程；掌握sentry监控web应用异常；
 
 
-[![CPALyth's github stats](https://github-readme-stats.vercel.app/api?username=CPALyth)](https://github.com/CPALyth/github-readme-stats)
+<a href="https://github.com/CPALyth/github-readme-stats">
+<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPALyth&theme=dracula&hide=html,shell">
+</a>
+<a href="https://github.com/CPALyth/github-readme-stats">
+<img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=CPALyth&show_icons=true&theme=dracula&line_height=33">
+</a>
+<!--[![CPALyth's github stats](https://github-readme-stats.vercel.app/api?username=CPALyth)](https://github.com/CPALyth/github-readme-stats)-->
