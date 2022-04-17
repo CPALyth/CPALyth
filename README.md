@@ -2,7 +2,7 @@ Hi! I am CPALyth
 
 🔭 I’m currently working in Haidian District, Beijing
 
-🌱 I’m currently learning Python, Go, Flutter
+🌱 I’m currently learning Golang, Flutter
 
 	
 
